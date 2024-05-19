@@ -1,3 +1,5 @@
+![Uploading maxresdefault.jpg…]()
+
 - 👋 Bye, I’m @1A7V9A
 - 👀 I’m interested in reverse engineering and embedded systems. I'm willing to make a raygun and a machine gun that shoots cherry pie cakes 🍒🥧
 - 🌱 I’m currently learning how to automate pentesting.
